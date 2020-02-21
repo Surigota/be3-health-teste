@@ -1,0 +1,16 @@
+{
+  "name": "be3-health-back",
+  "version": "1.0.0",
+  "description": "Este projeto foi feito utilizando React.js e Node.js",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Surigota",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mssql": "^6.1.0"
+  }
+}
