@@ -15,7 +15,4 @@ Assim que concluido o passo anterior execute este comando na raiz
 da pasta "be3-health-front"
 
 Após seguir os passos anteriores o projeto ficará 
-disponível em [http://localhost:3000](http://localhost:3000) 
-
-
-
+disponível emOpen [http://localhost:3000](http://localhost:3000) 
